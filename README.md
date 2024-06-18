@@ -27,15 +27,19 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de SQL, o ebookk é do nicho de programação, o título deve despetar interesse e ser curto, tenha uma temática do filme Matriz no título, me liste 10 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em SQL ansy, listando os passos iniciais de criando consultarsprincipais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de SQL, o ebookk é de programação, o título deve despetar interesse e ser curto, tem uma temática do filme Matrix, me liste 10 variações de títulos. Agora a criação dos título deve obdecer as seguintes {REGRAS}.			
+			{REGRA}
+			> O título deve ter no máximo 10 palavras
+			> Nos exemplos temos que explorar os principais personagens do filme Matrix, como o Neo, Trinity, Morpheus e etc
+			> Tem que ser um tom bem jovem e nerd, voltado para área de tecnologia.
+| conteúdo | Faça um texto para ebook , com foco em SQL ansy, listando os passos iniciais de criando consultarsprincipais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico  | 
 
 
-Midjourney：
+Canvas：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título |  |
 
 ## ✨ Features
 
