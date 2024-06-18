@@ -12,7 +12,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Alvaro-MSJR/prompts-recipe-to-create-a-ebook/output/eBook%20-%20SQL%20Matrix.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Alvaro-MSJR/prompts-recipe-to-create-a-ebook/blob/main/output/eBook%20SQL%20Matrix.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -27,9 +27,11 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Título** | Crie um título de um ebook sobre o tema de SQL, o ebookk é de programação, o título deve despetar interesse e ser curto, tem uma temática do filme Matrix, me liste 10 variações de títulos. Agora a criação dos título deve obdecer as seguintes {REGRAS}. |                                                                                          	
-| .|{**REGRAS**} 	                                                                         **>** O título deve ter no máximo 10 palavras                                                                **>** Nos exemplos temos que explorar os principais personagens do filme Matrix, como o Neo, Trinity, Morpheus e etc                                                                                     **>** Tem que ser um tom bem jovem e nerd, voltado para área de tecnologia.  |
-| Conteúdo livro | Faça um texto para ebook , com foco em SQL ansy, listando os passos iniciais de criando consultarsprincipais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico  |
+| **Título** | Crie um título de um ebook sobre o tema de SQL, o ebookk é de programação, o título deve despetar interesse e ser curto, tem uma temática do filme Matrix, me liste 10 variações de títulos. Agora a criação dos título deve obdecer as seguintes {REGRAS}.{**REGRAS**} **>** O título deve ter no máximo 10 palavras ,  **>** Nos exemplos temos que explorar os principais personagens do filme Matrix, como o Neo, Trinity, Morpheus e etc, **>** Tem que ser um tom bem jovem e nerd, voltado para área de tecnologia.  |
+| Conteúdo livro |  Faça um texto para ebook , com foco em SQL Ansy, listando os passos para criação de consulta, simples, na sequencia fazendo full outer join, outer join, inner join, left join, explore também das funçoes  agrupadoras,  e apresente para cada qeury que esta apresentando a forma normal e o desenho do conjunto como se demonstra . Na sequencia faça também uma introdução ao outros comandos do CRUD, tudo deve ter exemplo de código. Agora a criação dos capítuos deve obdecer as seguintes {REGRAS}.  **{REGRAS}***  Utilize temática e um linguagem do Morfeus do filme Matrix, quando fala com o Neo e a Trinity, para explicar os assuntos, deixei isto claro no tópicos,  Cada capitulo deve ser numerado, e os seus subindices,  Explique sempre de uma maneira simples, deixe o texto enxuto,  Utilize o formato mais informal possível, sem perder as questões técnicas, Sempre traga 3 exemplos de código em contextos reais ,  Sempre deixe um título sugestivo por tópico   |
+| Conteúdo Introdução| Crie uma introdução simples seguindo a tematica de Matrix|
+| Conteúdo Conclusão| Faça uma conclusão que tenha informação que este conteúdo e meramente ilustrativo para utilização de IA Generativa, colocando todos os disclaimes que forem necessarios. Tudo seguindo a temática do filme Matriz.|
+
 
 Canvas：
 
@@ -51,7 +53,7 @@ Canvas：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Aprendiz
+## 👨‍💻 Devsenvolvedor
 
 <p>
     <p>&nbsp&nbsp&nbspAlvaro Monteiro<br>
