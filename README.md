@@ -35,7 +35,7 @@ Canvas：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título |  |
+| título |  Em um cozinha que da para ver o por do sol sobre a cidade, temos os personagens do filme Matrix Neo e Oracle a mesa conversando e buscando um meio de entrar na Matriz atraves de um código, de forma a não ser detectados pelo virus de defeasa da Matrix|
 
 ## ✨ Features
 
